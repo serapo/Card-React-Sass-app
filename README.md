@@ -9,5 +9,5 @@ In this project i used;
 
 You can click and check it out!
 
-Github: https:https://lnkd.in/gEUW-x7S
+Github: https://serapo.github.io/Card-React-Sass-app/
 
