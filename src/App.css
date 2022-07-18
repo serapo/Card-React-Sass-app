@@ -1,3 +1,6 @@
+@import './scss/_reset.scss';
+@import './scss/App.scss';
+
 .App {
   text-align: center;
 }

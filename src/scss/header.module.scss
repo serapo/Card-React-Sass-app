@@ -1,0 +1,10 @@
+@import './variables';
+
+header {
+  background-color: $pink;
+  padding: 1rem;
+  .title {
+    text-align: center;
+    color: azure;
+  }
+}
